@@ -1,0 +1,30 @@
+easy tasks
+
+
+LEVEL - 8
+
+lesson 3
+
+string, loop Double Char
+https://www.codewars.com/kata/56b1f01c247c01db92000076
+
+string formatting (explain all possibilities with format and .2f)
+https://www.codewars.com/kata/521cd52e790405a74800032c/
+
+
+====
+logic , len with range() 
+https://www.codewars.com/kata/59342039eb450e39970000a6
+
+
+
+====
+list, and simmetric point ( difficult to think )
+https://www.codewars.com/kata/57bfea4cb19505912900012c/train/python
+
+palindrom index, slciing
+https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/python
+
+
+Dictionary
+https://www.codewars.com/kata/521cd52e790405a74800032c
