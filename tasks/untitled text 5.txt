@@ -1,0 +1,15 @@
+Bulding framework for automation on project 
+
+
+https://github.com/BurhanH/TestAutomationCourse-python-ui-project
+
+https://github.com/BurhanH/TestAutomationCourse-python-api-project
+
+https://docs.google.com/spreadsheets/d/1suJDSAeSwzYnAV1dxZ8sr28VW0wK3e3EsMekuQzxI5k/edit?usp=sharing
+
+Clone/Copy/Fork.
+Contribute any issues (lack of documentation, typos, improvements, etc.), add tests.
+Find your group, check lead list in our document, if you can't find lead, ask collaborators in our channel. Form your group by 2 or more people and start working.
+Sites and API endpoints for test automation:
+API - https://breakingbadapi.com/documentation
+UI - https://demoqa.com/
